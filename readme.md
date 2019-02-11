@@ -3,7 +3,12 @@
 A simple keyboard drum kit written in vanilla JavaScript.
 
 ## How to run:
-Open the `index.html` file in your browser
+Run `index.html` in your browser
+```
+https://index.html
+```
 
-### Wes Bos' JavaScript 30 Tutorials:
+### Wes Bos JavaScript 30 Tutorials:
+```
 https://javascript30.com
+```
